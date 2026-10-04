@@ -1,0 +1,8 @@
+torch~=2.6.0+cu124
+torchvision~=0.21.0+cu124
+optuna~=4.9.0
+numpy~=2.3.1
+matplotlib~=3.10.5
+scikit-learn~=1.8.0
+streamlit~=1.52.2
+pillow~=11.3.0
